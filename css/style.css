@@ -1,0 +1,32 @@
+*{
+    font-family: cursive;
+}
+
+input{
+    display: flex;
+    justify-items: center;
+    align-content: center;
+}
+
+div{
+    display: grid;
+    justify-content: center;
+}
+
+#home{
+    display: none;
+    margin-top: 10px;
+}
+
+table{
+    border: 1px solid black;
+    font-size: xx-large;
+}
+
+tr, td{
+    display: flex;
+    justify-content: center;
+    padding: 5px 10px 5px 10px;
+    border: 1px solid black;
+    margin: 10px;
+}
